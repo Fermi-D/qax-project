@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/69b37c1b-75d0-4478-ae25-a9b984a8b658)
+![image](https://github.com/user-attachments/assets/ab1d38ae-e46e-4e68-9ccf-924e8c10fb0e)
 Template for the Read the Docs tutorial
 =======================================
 
