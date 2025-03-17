@@ -1,4 +1,4 @@
-![image](https://github.com/Fermi-D/qax/issues/1#issue-2924222219)
+![image](https://github.com/user-attachments/assets/ab1d38ae-e46e-4e68-9ccf-924e8c10fb0e)
 Template for the Read the Docs tutorial
 =======================================
 
