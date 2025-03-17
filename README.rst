@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ab1d38ae-e46e-4e68-9ccf-924e8c10fb0e)
+![image](./docs/media/QAX_logo.png)
 Template for the Read the Docs tutorial
 =======================================
 
