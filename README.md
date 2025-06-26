@@ -1,4 +1,4 @@
-![image](./docs/media/qax_logo_origin.png)
+![image](./docs/media/qax_logo.svg)
 Contributors : [R. Maekura](https://github.com/Fermi-D)
 
 ![python version](https://img.shields.io/badge/python-3.11%2B-purple) [![license: Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-purple)](https://github.com/dynamiqs/dynamiqs/blob/main/LICENSE) 
