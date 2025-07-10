@@ -1,8 +1,0 @@
-qubit_1 :
-  w_01 : 5.0e6
-  w_12 : 
-  
-ro_resonator :
-  w_r : 
-  kappa_int :
-  kappa_ext :
