@@ -13,16 +13,11 @@ QAX is a high-performance library for
 > This library is under active development and some APIs and solvers are still finding their footing. While most of the library is stable, new releases might introduce breaking changes.
 
 ## Installation
-
-```shell
-pip install qax
-```
-
 ```shell
 git clone https://github.com/Fermi-D/qax.git
 ```
 > [!Note]
-> 
+> Currently, installation via pip is not supported. Support for this will be added in the near future.
 
 ## Tutorial
 
